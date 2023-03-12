@@ -1,0 +1,22 @@
+{
+  "name": "bornpink",
+  "publisher": "bpink",
+  "displayName": "bornpink",
+  "description": "Born pink inspired color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Born Pink Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Born Pink Theme-color-theme.json"
+      }
+    ]
+  }
+}
